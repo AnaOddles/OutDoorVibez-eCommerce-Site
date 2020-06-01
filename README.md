@@ -5,21 +5,21 @@ Application Overview, Tools & List of Features:
 OutDoorVibez is our ecommerce site created with php as the backend for the server side. HTML and CSS for design with the help of Bootstrap and Bootstrap Studio for styling and format. The data management is done by MySQL database with relational tables and entities. This web application allows for users to create an account and order outdoor gear. Admins can manage the users and products on the web application itself without having to go on the database management system. 
 
 Tools: 
-Programming & Scripting Languages: PHP, Html, CSS, Bootstrap
-Bootstrap Studio 
-PHP Eclipse 
-PhpMyAdmin
-My Sql Workbench 
+ 1.Pogramming & Scripting Languages: PHP, Html, CSS, Bootstrap
+ 2.Bootstrap Studio 
+ 3.PHP Eclipse 
+ 4.PhpMyAdmin
+ 5.MySQL Workbench
 
 Web Application Features: 
-Users can create account 
-Admin permissions- create, edit, delete products and users 
-Search and view a catalog of products 
-Dynamic Shopping Cart 
-Product, Order, and User data storage 
-Non-users can also create orders and purchase products
-Admins can access a sales report 
-Users can utilize coupons 
+- Users can create account
+- Admin permissions- create, edit, delete products and users 
+- Search and view a catalog of products 
+- Dynamic Shopping Cart 
+- Product, Order, and User data storage 
+- Non-users can also create orders and purchase products
+- Admins can access a sales report 
+- Users can utilize coupons 
 
 
 Design Decisions for Classes, Database Schema, and Folder Structure
