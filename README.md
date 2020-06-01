@@ -26,14 +26,13 @@ Web Application Features:
 Design Decisions for Classes, Database Schema, and Folder Structure
 
 Classes: n-Tier Architecture, Layers
+
 All the classes for our web application are either in the data access or business layer. Those in the data access layer are the classes that run the queries and CRUD data throughout the program. The classes in the presentation layer allow access to data while securing the data and encapsulate the data access layer methods that modifier or create data from the database. 
 
 Folder Structure:
-
 Our goal for the file structure is to keep the files as organized as possible to allow the easy navigation as we developed these files. Keeping classes, handlers, pages, includes, images and resources separate. 
  
 Database Schema:
-
 We used relational tables and entities for this web application. Every entity has its own table and a primary key to allow uniqueness and for retrieving the entity at a later time. We also used foreign keys because every table/entity has a relationship with another. 
 
 
